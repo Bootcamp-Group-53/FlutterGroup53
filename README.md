@@ -41,6 +41,45 @@ User Story'ler product backlog'ların içine yazılmıştır. Product backlog it
 ### Sprint içinde tamamlanması tahmin edilen puan: 30 Puan
 
 ### Puan tamamlama mantığı
+Product backlog henüz tam olarak belirlenmediği için toplam puan ve puanlama mantığı net değildir. Bu yüzden sprint başına tahmini puan belirlemek yerine, yapılacak görevler üzerinden ilerlenmektedir. İlk sprintte, yapılacak işlerin kabaca belirlenmesiyle birlikte 30 puanlık iş yapılması hedeflenmiştir.
+
+### Backlog düzeni ve Story seçimleri
+Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Story'ler yapılacak işlere (task'lere) bölünmüştür. GitHub Project Board'da story'ler ve task'ler, "To Do", "In Progress", "Done" gibi sütunlara taşınarak takip edilmiştir.
+
+### Task Dağılımı
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Şu an için "To Do" sütununda iki görev ve "Done" sütununda bir görev bulunmaktadır.
+
+### Daily Scrum
+Google Meets üzerinden bir Daily Scrum yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+![Screenshot (114)](https://github.com/user-attachments/assets/b362a1eb-e342-47f9-a7bc-5e7afaee967a)
+
+
+### Sprint board update
+Sprint board screenshotları: 
+Google Meets üzerinden bir Daily Scrum yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum]Screenshot (108)
+### Ürün Durumu
+İlerleyen aşamalarda, projenin görsel ve teknik ilerlemelerinin paylaşılması planlanmıştır.
+
+### Sprint Review
+Alınan kararlar: 
+-Ürün adı ve özellikleri henüz belirlenememiştir. Bu konular bir sonraki sprint'te ele alınacaktır.
+-Sprint Review katılımcıları: Fatma Azra Gürdal, Seyyid Hamza Zahid, Enes Baki Bedir
+
+### Sprint Retrospective
+-Zamanlama ile ilgili sorunları çözmek için daha sık takım içi iletişim sağlanması kararı alınmıştır.
+-Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalıdır.
+
+### Diğer Notlar
+Ürün ismi, açıklaması, özellikleri, bilgileri, hedef kitlesi en kısa zamanda takım tarafından belirlenip eklenecek ve bu çerçevede backlog ve puanlama ile alakalı ekleme ve düzenlemeler yapılacaktır.
+
+## Sprint 2
+
+### Sprint Notları
+User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+### Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+### Puan tamamlama mantığı
 Product backlogda belirlenen görevlerin zorluğu değişmektedir, bu yüzden sprint başına tahmini puan belirlemek yerine, yapılacak görevler üzerinden ilerlenmektedir. İşlere toplamda 100 puan atanmıştır.Kendi içlerinde ise öncelik sıralamasına göre puan verilmiştir.Önceliği P2 olarak belirlenen işe 40 puan, P1 olarak belirlenen işe 30 puan, P0 olarak belirlenen işlere ise 15 puan atanmıştır.
 
 ### Backlog düzeni ve Story seçimleri
@@ -51,12 +90,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Şu an için "To Do" 
 
 ### Daily Scrum
 Google Meets üzerinden bir Daily Scrum yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
-![Screenshot (114)](https://github.com/user-attachments/assets/b362a1eb-e342-47f9-a7bc-5e7afaee967a)
-
+![Screenshot (114)](https://github.com/user-attachments/assets/3a1f1d55-7e2d-4ed6-aa48-f34be2125ad2)
 
 ### Sprint board update
 Sprint board screenshotları: 
-![Screenshot (120)](https://github.com/user-attachments/assets/81357cc0-a411-4c06-a108-978ac3686a61)
+Google Meets üzerinden bir Daily Scrum yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+![Screenshot (120)](https://github.com/user-attachments/assets/825f87fd-a864-49a1-b8d8-ca353f13c75c)
 
 ### Ürün Durumu
 İlerleyen aşamalarda, projenin görsel ve teknik ilerlemelerinin paylaşılması planlanmıştır.
@@ -71,7 +110,6 @@ Alınan kararlar:
 ### Sprint Retrospective
 - Her hafta içi en az bir kere olacak şekilde düzenli scrum yapılacağı kararı alınmıştır.
 - Geri dönüş alınamayan takım üyelerine katılımları adına son bir kez uyarı yapılıp geri dönüşe göre görev dağılımlarına devam edilmesine karar verilmiştir .
-
 
 ### Diğer Notlar
 Bir önceki scrumda tamamlanmasına karar verilen görevler tamamlanmıştır.
