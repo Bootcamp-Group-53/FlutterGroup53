@@ -56,7 +56,9 @@ Google Meets üzerinden bir Daily Scrum yapılmasına karar verilmiştir. Daily 
 
 ### Sprint board update
 Sprint board screenshotları: 
-Google Meets üzerinden bir Daily Scrum yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum]Screenshot (108)
+Google Meets üzerinden bir Daily Scrum yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+![Screenshot (109)](https://github.com/user-attachments/assets/944612a2-6b86-405f-83e1-f6346a2530f6)
+
 ### Ürün Durumu
 İlerleyen aşamalarda, projenin görsel ve teknik ilerlemelerinin paylaşılması planlanmıştır.
 
