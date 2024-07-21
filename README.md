@@ -51,7 +51,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Şu an için "To Do" 
 
 ### Daily Scrum
 Google Meets üzerinden bir Daily Scrum yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
-![Screenshot (114)](https://github.com/user-attachments/assets/b362a1eb-e342-47f9-a7bc-5e7afaee967a)
+![Screenshot (107)](https://github.com/user-attachments/assets/b2b03977-958e-470f-86f1-42507e7f6032)
 
 
 ### Sprint board update
