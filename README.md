@@ -121,16 +121,16 @@ Bir önceki scrumda tamamlanmasına karar verilen görevler tamamlanmıştır.
 ### Sprint Notları
 User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-### Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+### Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
 
 ### Puan tamamlama mantığı
-Product backlogda belirlenen görevlerin zorluğu değişmektedir, bu yüzden sprint başına tahmini puan belirlemek yerine, yapılacak görevler üzerinden ilerlenmektedir. İşlere toplamda 100 puan atanmıştır.Kendi içlerinde ise öncelik sıralamasına göre puan verilmiştir.Önceliği P2 olarak belirlenen işe 40 puan, P1 olarak belirlenen işe 30 puan, P0 olarak belirlenen işlere ise 15 puan atanmıştır.
+Toplamda projenin kalan kısmı boyunca tamamlanması gereken 120 puanlık backlog bulunmaktaydı.3 Daily Scrum'a bölündüğünde scrum başına düşen puanın en azından 40 ile başlaması gerektiğine karar verildi.
 
 ### Backlog düzeni ve Story seçimleri
 Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Story'ler yapılacak işlere (task'lere) bölünmüştür. GitHub Project Board'da story'ler ve task'ler, "To Do", "In Progress", "Done" gibi sütunlara taşınarak takip edilmiştir.
 
 ### Task Dağılımı
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Şu an için "To Do" sütununda dört görev, "In Progress" sütununda 1 görev ve "Done" sütununda iki görev bulunmaktadır.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Bir önceki scrumda "To Do" sütununda dört görev, "In Progress" sütununda 1 görev ve "Done" sütununda iki görev bulunmaktayken şimdi görevler tamamladığı için güncel olarak görevlerin hepsi done sütununa taşınmıştır.
 
 ### Daily Scrum
 Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
