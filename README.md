@@ -115,3 +115,56 @@ Alınan kararlar:
 
 ### Diğer Notlar
 Bir önceki scrumda tamamlanmasına karar verilen görevler tamamlanmıştır.
+
+## Sprint 3
+
+### Sprint Notları
+User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+### Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+### Puan tamamlama mantığı
+Product backlogda belirlenen görevlerin zorluğu değişmektedir, bu yüzden sprint başına tahmini puan belirlemek yerine, yapılacak görevler üzerinden ilerlenmektedir. İşlere toplamda 100 puan atanmıştır.Kendi içlerinde ise öncelik sıralamasına göre puan verilmiştir.Önceliği P2 olarak belirlenen işe 40 puan, P1 olarak belirlenen işe 30 puan, P0 olarak belirlenen işlere ise 15 puan atanmıştır.
+
+### Backlog düzeni ve Story seçimleri
+Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Story'ler yapılacak işlere (task'lere) bölünmüştür. GitHub Project Board'da story'ler ve task'ler, "To Do", "In Progress", "Done" gibi sütunlara taşınarak takip edilmiştir.
+
+### Task Dağılımı
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Şu an için "To Do" sütununda dört görev, "In Progress" sütununda 1 görev ve "Done" sütununda iki görev bulunmaktadır.
+
+### Daily Scrum
+Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+![Screenshot (131)](https://github.com/user-attachments/assets/efcf5b54-59e5-470b-a99b-91be1971f196)
+![Screenshot (132)](https://github.com/user-attachments/assets/cc485340-199d-4330-a724-ab6708dc699b)
+
+
+### Sprint board update
+Sprint board screenshotları: 
+Google Meets üzerinden bir Daily Scrum yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+![Screenshot (133)](https://github.com/user-attachments/assets/70106e87-7433-4214-be7f-0344ee5edb98)
+![Screenshot (134)](https://github.com/user-attachments/assets/ca41d301-573f-48c0-8c3c-5e7dcfcab073)
+
+
+
+### Ürün Durumu
+Ekran görüntüleri:
+![secenek-listesi](https://github.com/user-attachments/assets/fe026e5e-b19b-4f52-be68-4f756af6ddf0)
+![cark-secilmis](https://github.com/user-attachments/assets/a93f11a7-357b-403a-94b0-a3d96f814c2d)
+![kart-secilmis](https://github.com/user-attachments/assets/4c47e9ec-866c-4c33-96bc-609397a17672)
+![secenek-ekleme](https://github.com/user-attachments/assets/078ff68b-aad1-4959-924c-770f2324ef7d)
+![splash](https://github.com/user-attachments/assets/6d274b5b-c7e7-48b6-b38a-d6b7966c1a0a)
+![secenek-duzenle](https://github.com/user-attachments/assets/e7d3ba42-03aa-4bcd-a8ed-1b51964bc1b7)
+![secenek-limit](https://github.com/user-attachments/assets/4aaceb1f-982d-408b-827e-a33e8fb5ebcf)
+
+
+### Sprint Review
+Alınan kararlar: 
+- Ürünün son haline getirilmesi ile ilgili düzenlemelerde ortak karara varılmıştır.
+- Sprint Review katılımcıları: Fatma Azra Gürdal, Seyyid Hamza Zahid, Enes Baki Bedir
+
+### Sprint Retrospective
+- Zaman kısıtlılığından dolayı tasarım ve planlama aşamasına ağırlık vermekten ziyade uygulamanın üretimine geçilmesine öncelik verilmesi kararına varılmıştır.
+- Geri dönüş alınamayan takım üyelerine katılımları adına son bir kez uyarı yapılıp geri dönüşe göre görev dağılımlarına devam edilmiştir .
+
+### Diğer Notlar
+Bir önceki scrumda tamamlanmasına karar verilen görevler tamamlanmıştır.
